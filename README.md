@@ -8,7 +8,7 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 
 `Hospedagem`  
 
-[tic-tac-toe]()
+[tic-tac-toe](https://tavaresslc.github.io/tic-tac-toe/)
 
 ## Como Jogar
 
